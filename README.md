@@ -1,8 +1,6 @@
 <h2 align="left">Hi there 👋, I'm Rıdvan.</h2>
 <h4 align="left">I am working as penetration tester and doing researches related to offensive security. I am mostly interested in web app security and mobile app security.</h4>
 
-- 🔭 I’m currently working on [HRMS project.](https://github.com/recanavar/java-react-camp/tree/main/hrms)
-
 - 🌱 I’m currently learning **JAVA, Spring Boot/MVC, React and Redux.**
 
 - 📫 How to reach me **recanavar@pm.me**
